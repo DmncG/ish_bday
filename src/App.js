@@ -10,8 +10,8 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Container />} />
-          <Route path="/message" element={<Message />} />
-          <Route path="/bonus" element={<KMK />} />
+          <Route path="message" element={<Message />} />
+          <Route path="bonus" element={<KMK />} />
         </Routes>
       </BrowserRouter>
     </div>
