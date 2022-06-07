@@ -7,14 +7,13 @@ import KMK from './kmk/KMK';
 function App() {
   return (
     <div className="App">
-      {/* <BrowserRouter>
+      <BrowserRouter window>
         <Routes>
           <Route path="/" element={<Container />} />
           <Route path="message" element={<Message />} />
           <Route path="bonus" element={<KMK />} />
         </Routes>
-      </BrowserRouter> */}
-      testing
+      </BrowserRouter>
     </div>
   );
 }
