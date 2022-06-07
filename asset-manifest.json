@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ish_bday/static/css/main.e17f7b2b.css",
+    "main.js": "/ish_bday/static/js/main.47c86d53.js",
+    "static/js/787.13c31170.chunk.js": "/ish_bday/static/js/787.13c31170.chunk.js",
+    "static/media/ish_2.jpg": "/ish_bday/static/media/ish_2.8cde53a02d019b46c6c2.jpg",
+    "static/media/ish_1.jpg": "/ish_bday/static/media/ish_1.73c4adbd173040b4541c.jpg",
+    "static/media/ish_4.jpg": "/ish_bday/static/media/ish_4.c5b4c45ba35caaf50bc5.jpg",
+    "static/media/aloha_hawaii.jpeg": "/ish_bday/static/media/aloha_hawaii.1d5ddaf8f78f84510169.jpeg",
+    "static/media/ish_3.jpg": "/ish_bday/static/media/ish_3.efa3c780c2f41f148215.jpg",
+    "static/media/kim-min-kyu-cats.jpeg": "/ish_bday/static/media/kim-min-kyu-cats.e5d5383b45d26733de30.jpeg",
+    "static/media/kim_6.jpg": "/ish_bday/static/media/kim_6.ca6d46e3f58a1e5f1a60.jpg",
+    "static/media/kim_2.jpeg": "/ish_bday/static/media/kim_2.17b95e5877ab23bad901.jpeg",
+    "static/media/kim_8.jpg": "/ish_bday/static/media/kim_8.26f0a9860a64520a827a.jpg",
+    "static/media/pusheen.gif": "/ish_bday/static/media/pusheen.16f084e47659beab1fe2.gif",
+    "static/media/kim_7.jpeg": "/ish_bday/static/media/kim_7.88f205f1d70ef2b33ad4.jpeg",
+    "static/media/kim_5.jpeg": "/ish_bday/static/media/kim_5.5103493dfbd051c9004a.jpeg",
+    "static/media/kim_4.jpeg": "/ish_bday/static/media/kim_4.87330ebd20466c3c2439.jpeg",
+    "static/media/kim_3.jpeg": "/ish_bday/static/media/kim_3.cbde167b49dd825c9f81.jpeg",
+    "index.html": "/ish_bday/index.html",
+    "main.e17f7b2b.css.map": "/ish_bday/static/css/main.e17f7b2b.css.map",
+    "main.47c86d53.js.map": "/ish_bday/static/js/main.47c86d53.js.map",
+    "787.13c31170.chunk.js.map": "/ish_bday/static/js/787.13c31170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17f7b2b.css",
+    "static/js/main.47c86d53.js"
+  ]
+}
