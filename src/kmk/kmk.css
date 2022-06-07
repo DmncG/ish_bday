@@ -3,6 +3,15 @@
   grid-template-columns: 1fr;
   justify-items: center;
   align-content: center;
+  grid-template-areas: 
+  'k1'
+  'k2'
+  'k3'
+  'k4'
+  'k5'
+  'k6'
+  'k7'
+  'k8';
 }
 
 .kmk__image{
@@ -50,5 +59,20 @@
     'k2 k4'
     'k5 k6'
     'k7 k8';
+    max-width: 900px;
+    margin: auto;
   }
 }
+
+@media only screen and (min-width: 1024px) {
+    .kmk__images{
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-template-areas: 
+      'k1 k3 k2 k4'
+      'k5 k6 k7 k8';
+    }
+    
+    .kmk__image{
+      width: 200px;
+    }
+  }
