@@ -1,0 +1,15 @@
+.content__div{
+  background-color: #ffffff6b;
+  padding: 16px;
+  margin: 16px;
+}
+
+.content__img{
+  width: 250px;
+}
+
+.content__p{
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+}

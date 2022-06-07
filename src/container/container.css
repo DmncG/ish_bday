@@ -1,0 +1,8 @@
+.container__div{
+  height: 100vh;
+  display: flex;
+  flex-flow: coluumn wrap;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
