@@ -16,7 +16,8 @@
 
 .kmk__image{
   width: 300px;
-  padding: 8px;
+  border: 3px solid rgba(252,191,73,1);
+  margin: 8px;
 }
 
 #kmk_1{
