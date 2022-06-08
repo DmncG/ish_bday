@@ -9,6 +9,7 @@ import KMK5 from './kim_5.jpeg';
 import KMK6 from './kim_6.jpg';
 import KMK7 from './kim_7.jpeg';
 import KMK8 from './kim_8.jpg';
+import MuiButton from '../muiButton/MuiButton';
 import './kmk.css';
 
 
@@ -26,6 +27,7 @@ function KMK () {
         <img src={KMK7} alt="kmk7" className="kmk__image" id="kmk_7" />
         <img src={KMK8} alt="kmk8" className="kmk__image" id="kmk_8" />
       </div>
+      <MuiButton str="/message" label="Back to Messages" />
     </div>
   )
 }
